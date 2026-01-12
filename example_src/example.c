@@ -26,8 +26,8 @@ int main(int argc, char *argv[])
     stations_list_t stations = load_stations(argv[3]);
 
     // Get user's location
-    float user_lat = 55.66356899;
-    float user_lon = 37.248329;
+    float user_lat = 55.65;
+    float user_lon = 37.23;
     // printf("Enter your latitude (example: 55.655)\n");
     // scanf("%f", &user_lat);
     // printf("Enter your longitude (example: 37.252)\n");
