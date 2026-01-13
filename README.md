@@ -62,5 +62,5 @@ Station Id,Station name,latitude,longitude
 Для работы с BMP используется библиотека LoadBMP: https://github.com/vallentin/LoadBMP
 
 ### Текущие проблемы
-* Изменение bmp файла некоректно работает. Необходимо переписать функцию add_pixel
+* В коде остутсвуют проверки открытия файлов, проверкии аллокации памяти
 
